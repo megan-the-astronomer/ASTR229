@@ -1,4 +1,4 @@
 # ASTR229
 Notebooks and assignments for ASTR229 
 
-Last updated December 2025
+updated for fall semester 2026
